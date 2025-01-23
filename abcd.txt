@@ -1,4 +1,3 @@
 Hello WorldSome changes done again.
 Branch 1 changes
-Changes in branch1
 Changes in branch2
