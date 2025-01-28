@@ -1,1 +1,1 @@
-Hello WorldSome changes done again. hello conflict 
+Hello WorldSome changes done again. hello conflict. Stashing.
